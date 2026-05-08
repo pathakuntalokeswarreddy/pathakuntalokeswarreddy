@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pathakunta Lokeswar Reddy
+- 👋 Hi, I’m @Lokeswar Reddy Pathakunta
 - B.Tech Graduate in ECE, at Madanapalle Institute of Technology and Science college
 - 👀 I’m very much interested in Embbedded systems
 - 🌱 I’m currently enrolled as Embedded System Software Engineer Trainee at Emertxe, Bangalore
