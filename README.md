@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Lokeswar Reddy Pathakunta
-- B.Tech Graduate in ECE, at Madanapalle Institute of Technology and Science college
-- 👀 I’m very much interested in Embbedded systems
-- 🌱 I’m currently enrolled as Embedded System Software Engineer Trainee at Emertxe, Bangalore
-- 📫 How to reach me : you can reach me by  mail - lokeswarreddy5981@gmail.com...
+- 👋 Hi, I’m @LokeswarReddyPathakunta
+- 🎓 B.Tech Graduate in Electronics and Communication Engineering from Madanapalle Institute of Technology and Science
+- 👀 Passionate about Embedded Systems, RTOS, and Embedded C Programming
+- 🌱 Currently working as an Embedded System Software Engineer Trainee at Emertxe, Bangalore
+- 💼 Previously worked as an R&D Intern at GS Co., LTD, South Korea in the DSP Domain
+- 💡 Interested in Embedded Software Development, Microcontrollers, and Real-Time Applications
+- 📫 Reach me at: lokeswarreddy5981@gmail.com
 - LINKEDIN PROFILE : https://www.linkedin.com/in/pathakunta-lokeswar-reddy-b7aba7272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 <!---
 
